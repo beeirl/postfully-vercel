@@ -1,12 +1,16 @@
 {
   "name": "@postfully/api",
   "type": "module",
+  "scripts": {
+    "dev": "srvx"
+  },
   "dependencies": {
     "hono": "catalog:"
   },
   "devDependencies": {
     "@types/node": "catalog:",
     "@tsconfig/node22": "catalog:",
+    "srvx": "0.8.7",
     "typescript": "catalog:"
   }
 }
