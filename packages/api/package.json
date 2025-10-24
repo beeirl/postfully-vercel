@@ -1,9 +1,6 @@
 {
   "name": "@postfully/api",
   "type": "module",
-  "scripts": {
-    "dev": "bun run ./src/index.ts"
-  },
   "dependencies": {
     "hono": "catalog:"
   },
