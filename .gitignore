@@ -1,7 +1,10 @@
 node_modules
 dist
-.vercel
 .DS_Store
 .env
+.astro
 .npmrc
-
+.idea
+.tanstack
+.claude
+.vscode
